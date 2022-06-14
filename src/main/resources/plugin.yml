@@ -1,0 +1,6 @@
+name: PaperTemplate
+version: '${version}'
+main: tokyo.ramune.papertemplate.PaperTemplate
+api-version: 1.18
+authors: [ RamuneRemonedo ]
+description: Template
